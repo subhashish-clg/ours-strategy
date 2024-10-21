@@ -1,2 +1,2 @@
-package.json merge=ours
-CHANGELOG.md merge=ours
+package.json merge=theirs
+CHANGELOG.md merge=theirs
